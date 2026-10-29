@@ -1,0 +1,25 @@
+year,manufacturer,vehicle_category,battery_technology,annual_sales,driving_range_km,customer_rating,manufacturing_country
+2023,VoltEdge,SUV,NMC,520,420,4.4,China
+2024,VoltEdge,SUV,NMC,680,450,4.5,China
+2025,VoltEdge,Sedan,LFP,610,390,4.2,China
+2023,Northstar EV,Sedan,NCA,430,510,4.6,United States
+2024,Northstar EV,SUV,NCA,490,480,4.3,United States
+2025,Northstar EV,Hatchback,LFP,370,320,4.1,Germany
+2023,E-Motion,Hatchback,LFP,710,300,4.0,India
+2024,E-Motion,Two-wheeler,LFP,900,150,4.3,India
+2025,E-Motion,Two-wheeler,Sodium-Ion,1040,170,4.2,India
+2023,GreenRoute,Bus,LFP,160,250,4.1,South Korea
+2024,GreenRoute,Truck,NMC,120,310,4.0,South Korea
+2025,GreenRoute,Bus,LFP,210,280,4.2,South Korea
+2024,Aster Mobility,Sedan,Solid-State,180,600,4.7,Japan
+2025,Aster Mobility,SUV,Solid-State,240,620,4.6,Japan
+2023,Aster Mobility,Hatchback,NMC,260,340,4.0,Japan
+2024,UrbanSpark,Two-wheeler,Sodium-Ion,760,130,4.1,India
+2025,UrbanSpark,Hatchback,LFP,540,330,4.2,Germany
+2023,UrbanSpark,SUV,NMC,300,400,3.9,Germany
+2024,EcoHaul,Truck,LFP,95,290,4.0,United States
+2025,EcoHaul,Truck,NMC,140,360,4.3,United States
+2023,MetroVolt,Bus,LFP,190,230,4.2,China
+2024,MetroVolt,Bus,LFP,250,270,4.3,China
+2025,MetroVolt,Sedan,NMC,330,410,4.1,China
+2025,Northstar EV,Sedan,NCA,560,530,4.5,United States
